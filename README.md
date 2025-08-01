@@ -5,7 +5,7 @@
 
 ## About Me👩‍💻 
 
- 🎯 Passionate about new technology 
+ 🎯 Passionate about new technology   
  📚 Graduate in AI & Data Analytics  
 
 ---
@@ -22,7 +22,7 @@
 
 | Pandas | Numpy | Matplotlib | Seaborn | Power BI | Tableau |
 |--------|-------|------------|---------|----------|---------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>**** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/> | <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80"/> | <img src="https://www.microsoft.com/zh-cn/power-platform/products/power-bi/" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>**** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/> | <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80"/> | <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="40"/> |
 
 ---
 
