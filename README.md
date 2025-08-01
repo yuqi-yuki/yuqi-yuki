@@ -5,8 +5,8 @@
 
 ## About Me👩‍💻 
 
-🎯 Passionate about new technology 
-📚 Graduate in AI & Data Analytics  
+- 🎯 Passionate about new technology 
+- 📚 Graduate in AI & Data Analytics  
 
 ---
 
@@ -22,7 +22,7 @@
 
 | Pandas | Numpy | Matplotlib | Seaborn | Power BI | Tableau |
 |--------|-------|------------|---------|----------|---------|
-| <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="40"/> | <img src="https://numpy.org/images/logo.svg" width="40"/> | <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="40"/> | <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Icon_Power_BI.png" width="40"/> | <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" width="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>**** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/> | <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="40"/> |
 
 ---
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 🌐 Social Media (Click on logos 😊)
+## 🌐 Social Media 
 
 <table>
   <tr>
@@ -79,4 +79,7 @@
 
 ---
 
-> ✨ *Let's build something great together!*
+### 📈 GitHub Analytics
+
+![Yuqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuqi-yuki&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuqi-yuki&layout=compact)
