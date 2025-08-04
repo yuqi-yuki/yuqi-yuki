@@ -79,6 +79,4 @@
 
 ---
 
-### 📈 GitHub Analytics
-
 ![github contribution snake](https://github.com/yuqi-yuki/yuqi-yuki/blob/output/github-contribution-grid-snake.svg)
