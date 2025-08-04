@@ -81,4 +81,4 @@
 
 ### 📈 GitHub Analytics
 
-![snake gif](https://raw.githubusercontent.com/yuqi-yuki/yuqi-yuki/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/yuqi-yuki/yuqi-yuki/blob/output/github-contribution-grid-snake.svg)
